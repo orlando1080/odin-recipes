@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+h1 {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+
+.pictures {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.centred-list {
+    text-align: left;
+    display: inline-block;
+}
+
+div {
+    text-align: center;
+}

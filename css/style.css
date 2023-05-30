@@ -1,9 +1,13 @@
-body {
+* {
     font-family: Arial, Helvetica, sans-serif;    
 }
 
 h1 {
     text-align: center;
+}
+
+.title {
+    font-size: 100px;
 }
 a {
     text-decoration: none;
@@ -20,6 +24,14 @@ a {
 .centred-list {
     text-align: left;
     display: inline-block;
+}
+
+.spaced-list {
+    margin-bottom: 8px;
+}
+
+.large-text-list {
+    font-size: 25px;
 }
 
 div {
